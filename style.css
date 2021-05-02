@@ -1,5 +1,5 @@
 .body {
-  background-color: #DBF3FA;
+  background-color: #dbf3fa;
 }
 
 .title {
@@ -9,7 +9,7 @@
 }
 
 .stitle {
-  color:darkblue;
+  color: darkblue;
   font-family: Georgia, 'Times New Roman', Times, serif;
   margin-left: 60px;
   margin-right: 20px;
@@ -41,6 +41,7 @@ img {
   margin-right: auto;
   width: 25%;
 }
+
 .cite {
   color: rgb(43, 43, 43);
   font-size: 12px;
