@@ -1,3 +1,13 @@
+.hyperlink {
+  background-color: white;
+  padding: 20px;
+  margin-top: -10px;
+  margin-left: -5px;
+  margin-right: -5px;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 .body {
   background-color: #dbf3fa;
 }
